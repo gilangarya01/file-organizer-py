@@ -8,4 +8,4 @@ Proyek ini adalah sebuah utilitas file organizer yang dibangun dengan menggunaka
 
 ##### Cara Menggunakan Aplikasi:
 
-- Jalankan program dan tekon tombol `Cari Folder` dan pilih folder yang ingin diatur
+- Jalankan program `python app.py` dan tekan tombol "Cari Folder" dan pilih folder yang ingin diatur
