@@ -8,4 +8,13 @@ Proyek ini adalah sebuah utilitas file organizer yang dibangun dengan menggunaka
 
 ##### Cara Menggunakan Aplikasi:
 
+- Buat dan aktifkan lingkungan virtual `venv` :
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # Untuk Windows gunakan: venv\Scripts\activate
+  ```
+- Instal dependensi dari `requirements.txt` :
+  ```bash
+  pip install -r requirements.txt
+  ```
 - Jalankan program `python app.py` dan tekan tombol "Cari Folder" dan pilih folder yang ingin diatur
